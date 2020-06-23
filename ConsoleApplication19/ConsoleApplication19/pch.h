@@ -1,4 +1,6 @@
-﻿#include <stdio.h>
+#pragma once﻿
+
+#include <stdio.h>
 #include <locale.h>
 #define N 8
 
